@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/playlist.png</file>
+        <file>images/toolbox.ico</file>
+        <file>qss/stylesheet.qss</file>
+        <file>images/left_arrow.png</file>
+        <file>images/right_arrow.png</file>
+        <file>images/add.png</file>
+        <file>icons/TMediaPlayer.ico</file>
+    </qresource>
+</RCC>
