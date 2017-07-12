@@ -8,7 +8,7 @@
 ## 支持平台：
 WIndows 7/8/10
 
-#编译步骤：
+## 编译步骤：
 * 安装qt5.8，设置好相关环境变量
 * 找到.pro文件，在当前文件夹下运行qmake,生成MakeFile.Debug与MakeFile.Release文件，以及Debug与Release目录
 * 运行 mingw32-make.exe -f MakeFile.Debug  在Debug目录中生成Debug版程序
